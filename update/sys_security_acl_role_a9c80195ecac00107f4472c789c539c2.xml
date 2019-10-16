@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:00:13</sys_created_on>
+        <sys_id>a9c80195ecac00107f4472c789c539c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_guided_app_message.x_snc_guided_app.hello_user</sys_name>
+        <sys_package display_value="Guided Application Creator" source="x_snc_guided_app">8d870155ecac00107f4472c789c539ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guided Application Creator">8d870155ecac00107f4472c789c539ee</sys_scope>
+        <sys_security_acl display_value="x_snc_guided_app_message">a1c80195ecac00107f4472c789c539c0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a9c80195ecac00107f4472c789c539c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:00:13</sys_updated_on>
+        <sys_user_role display_value="x_snc_guided_app.hello_user" name="x_snc_guided_app.hello_user">27b78155ecac00107f4472c789c539fa</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
